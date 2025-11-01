@@ -94,3 +94,11 @@ Working with the <b>AdventureWorks 2022</b> database enhanced my understanding o
 📍 Hyderabad, India <br>
 💼 SQL | Tableau | Data Analytics | Business Intelligence
 </p>
+
+<p align="center">
+  <img src="Screenshot 2025-11-01 162819.png" alt="Electric Vehicle Dashboard Screenshot" width="800">
+</p>
+
+<p align="center">
+  <img src="Screenshot 2025-11-01 162831.png" alt="Electric Vehicle Dashboard Screenshot" width="800">
+</p>
